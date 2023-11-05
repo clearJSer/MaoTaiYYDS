@@ -68,7 +68,7 @@ python3 main.py
 
 #### 欢迎请我喝咖啡（O.o），对我下班和周末时光的努力进行肯定，您的赞赏将会给我带来更多动力
 
-<img src="resources/imgs/wxqr.png" height="300">  <img src="resources/imgs/zfbqr.jpg" height="300">
+<img src="resources/imgs/wxqr.png" height="300">  <img src="resources/imgs/zfbqr.jpeg" height="300">
 
 #### 感谢老板赞赏，排名不分先后
 
