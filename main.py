@@ -1,6 +1,7 @@
 import datetime
 import logging
 import sys
+import time
 
 import config
 import login
@@ -75,6 +76,7 @@ for section in configs.sections():
                 s_title = '！！失败！！茅台预约'
             s_content = s_content + r_content + shopInfo + "\n"
             # 领取小茅运和耐力值
+            time.sleep(10)
             process.getUserEnergyAward(mobile)
     except BaseException as e:
         print(e)
